@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+ENV/
+.env.*
+
+# Flask
+instance/
+.webassets-cache
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Misc
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+
+# Twilio
+.twilio*
+
+# Test/coverage
+.coverage
+htmlcov/
+
+# Others
+*.tmp
+*.out
+*.DS_Store
